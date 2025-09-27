@@ -20,4 +20,6 @@ console.log(m)
 const adultStudent= arr.filter((ok)=>ok>=18)
 console.log(adultStudent)
 
-// 
+// find method -find a single element collect
+const friend=arr.find((sai)=>sai==10)
+console.log(friend)
